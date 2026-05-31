@@ -1,1 +1,2 @@
-# prototipo.py
+- **Python:**
+-  Criação de loops (`for`) e condicionais (`if/else`) para filtrar vendas por faixa de valor.
